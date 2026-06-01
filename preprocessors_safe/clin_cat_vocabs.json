@@ -1,0 +1,14 @@
+{
+  "treatment_type": [
+    "Radiation",
+    "Hormonal",
+    "Chemo",
+    "Surgery"
+  ],
+  "tumor_stage": [
+    "I",
+    "II",
+    "III",
+    "IV"
+  ]
+}
